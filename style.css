@@ -316,14 +316,14 @@ h3{
 }
 
 
-.icons .fa{
+.icons .fa-brands{
     color: #f44336;
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
 }
 
-.fa-heart-o{
+.fa-heart{
     color: #f44336;
 }
 
@@ -541,7 +541,7 @@ h3{
     }
 
     
-    nav .fa{
+    nav .fa-solid{
         display:block;
         color: #fff;
         margin: 10px;
