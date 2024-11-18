@@ -100,7 +100,7 @@ nav img{
     transition: 1s;
 }
 
-nav .fa{
+nav .fa-solid{
     display: none;
 }
 
@@ -488,7 +488,7 @@ h3{
 }
 
 
-.contact-col div .fa{
+.contact-col div .fa-solid{
     font-size: 28px;
     color: #f44336;
     margin: 10px;
